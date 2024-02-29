@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leandro de Oliveira Andrade  🖐️
 
-<h2>Um Entusiasta da Tecnologia</h2>
+<h3>Um Entusiasta da Tecnologia</h3>
 
 
 
